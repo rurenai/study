@@ -1,0 +1,16 @@
+@charset "utf-8";
+body{
+  background-color: #ff0;
+}
+header{
+  
+  border-width:3px;
+  border-style: solid;
+  border-color:rgba(255,255,0,0.5);
+}
+p{
+  color:green;
+  }
+  h1, h2{
+    background-color: hsla(100, 100%, 30%, 0.3);
+  }
