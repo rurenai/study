@@ -38,7 +38,7 @@ h1{
 }
 .menu a{
   display: block;
-  padding: 100px, 0;
+  padding: 20px, 0;
 }
 .menu a:hover, .menu a:focus{
   background-color: pink;
